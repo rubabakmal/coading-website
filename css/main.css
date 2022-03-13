@@ -1,0 +1,210 @@
+
+body{
+    background-color: #070507;
+}
+
+
+
+
+.site_wrap{
+    background-color:#2D191B;
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+.navbar {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+
+
+.navbar-light .navbar-nav .show >.nav-link,
+.navbar-light .navbar-nav .active >.nav-link,
+.navbar-light .navbar-nav .nav-link.show,
+.navbar-light .navbar-nav .nav-link.active {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color:white ;
+
+}
+
+.nav-link:hover, .nav-link:focus{
+    background-color: rgb(175, 164, 164);
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.dropdown-menu {
+    background-color:#2F191B;
+    
+ }
+
+.dropdown-item {
+    color: white;
+    background-color: #2F191B;
+ }
+
+ 
+.top_banner-wrapper {
+    position: relative;
+}
+
+.top_banner-wrapper video{
+    max-width: 100%;
+}
+
+.top_banner-wrapper .video_text{
+   
+    padding-left: 3rem;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    color: white;
+}
+
+p {
+    font-size: 1.5rem;
+    font-style: italic;
+    color: lightslategray;
+    padding-left: 2rem;
+}
+
+h5{
+    padding-left: 4rem;
+    color: mediumblue;
+}
+
+.top_banner-wrapper_btn{
+    position: absolute;
+    top: 85%;
+    margin-left: 45%;
+    margin-right: 45%;
+}
+
+
+.top_card-text{
+    margin-left: 40%;
+    margin-right: 40%;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    color: white;
+}
+
+
+p {
+    font-size: 1.2rem;
+    font-style: normal;
+    padding-left: 1rem
+}
+
+h4, .h4 {
+    font-size: 1.3rem;
+    color: white;
+   
+}
+
+.banner_text{
+    font-style: oblique;
+    font-size: 1.35rem;
+}
+
+.banner_h5{
+    font-size: 2rem;
+}
+
+
+.card-body {
+    background-color: black;
+}
+
+
+.main_banner-wrap{
+    padding-top: 3rem;
+    padding-bottom: 4rem;
+}
+
+
+.carousel-indicators li {
+    background-color:grey;
+}
+
+
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color:grey;
+ }
+ 
+
+ h3, .h3 {
+     font-size: 3.5rem;
+     color: white;
+     font-style: oblique;
+ }
+ 
+ .carousel-caption {
+     margin-right: 60%;
+    padding-bottom: 20%;
+ }
+
+ .card-body {
+     background-color:black;
+     color: white;
+ }
+
+ .contact_form{
+     
+     border: 5px solid white;
+     margin-left: 30%;
+     margin-right: 30%;
+     padding-top: 2rem;
+     border-radius: 2rem;
+ }
+
+
+ form {
+    width: 100%;
+     color: white;
+     padding-top: 4rem;
+     
+     
+     
+
+ }
+
+ h2, .h2 {
+     font-size: 2rem;
+     color: #101081;
+    margin-left: 30%;
+    margin-right: 20%;
+    padding-bottom: 4rem;
+
+ }
+
+ .last_text{
+    font-size: 1rem;
+    color: antiquewhite;
+    padding-top: 3rem;
+    padding-bottom: 1rem;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
